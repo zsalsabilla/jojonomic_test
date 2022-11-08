@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GET Latitude Longitude</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>018c6724-6a26-41db-a3db-9e28f26f2a6b</testCaseGuid>
+   <variable>
+      <defaultValue>'40.730610'</defaultValue>
+      <description></description>
+      <id>8a990160-b54b-465f-9791-1a764624a7a2</id>
+      <masked>false</masked>
+      <name>lat</name>
+   </variable>
+   <variable>
+      <defaultValue>'-73.935242'</defaultValue>
+      <description></description>
+      <id>a8a146ea-0707-4aed-8cbb-ed4f91bd9762</id>
+      <masked>false</masked>
+      <name>lon</name>
+   </variable>
+</TestCaseEntity>

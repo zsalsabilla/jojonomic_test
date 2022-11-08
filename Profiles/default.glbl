@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://api.weatherbit.io/v2.0'</initValue>
+      <name>baseurl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'daa9f68736ba46e3af7b74040d39b59c'</initValue>
+      <name>apikey</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
